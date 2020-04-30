@@ -1,0 +1,12 @@
+{
+  "name": "SerialNetwork",
+  "keywords": "serial, network, rs485",
+  "description": "RiegoMatic RS485 Serial Network",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/marcpiulachs/test.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
